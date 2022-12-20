@@ -11,8 +11,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI.Shared", "WebAPI.Sha
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "k6", "k6", "{6B87515B-D590-419C-9BB7-E9A8BCEAF9AF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI.Controller.Net7", "WebAPI.Controller.Net7\WebAPI.Controller.Net7.csproj", "{FF1975AF-1420-4D5C-98F5-49FA2E427D50}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CFCCA703-8BB2-401B-9EFF-2934E5F5F2DE}"
 	ProjectSection(SolutionItems) = preProject
 		ReadMe.txt = ReadMe.txt
@@ -36,10 +34,6 @@ Global
 		{F26B6DFA-0CC9-40D0-82EB-F73DF897B23A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F26B6DFA-0CC9-40D0-82EB-F73DF897B23A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F26B6DFA-0CC9-40D0-82EB-F73DF897B23A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{FF1975AF-1420-4D5C-98F5-49FA2E427D50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FF1975AF-1420-4D5C-98F5-49FA2E427D50}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FF1975AF-1420-4D5C-98F5-49FA2E427D50}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FF1975AF-1420-4D5C-98F5-49FA2E427D50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
